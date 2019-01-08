@@ -1,0 +1,2 @@
+# Flight-Delays
+You are a group of general airline analysts, and you want to investigate different aspects of delays from the different New York City airports  (the data stem from 2013, but can be enriched with newer data).  To do this, you get database comprising flight information, airport information, plane information, carrier information and weather information.  Your goal is to make use of SQL for any preprocessing of the dataset, and use Tableau for creating visual insights. 
